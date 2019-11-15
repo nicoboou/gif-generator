@@ -1,0 +1,51 @@
+body {
+  position: relative;
+  background-image:linear-gradient(120deg, #F2FF00, #00FFB7);
+  height: 500px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  padding: 100px;
+}
+
+.img-body {
+  height: 300px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px;
+  text-align:center;
+}
+
+.form-group {
+  text-align: center;
+  font-family: 'Knewave', cursive;  
+}
+
+.js-button {
+  position:relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:55%;
+  text-align:center;
+  background-image: linear-gradient(120deg, #F2FF00, #FF8C00);
+}
+  
+.img-box {
+  position:relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:99.9999%;
+  padding: 30px;
+}
+
+
